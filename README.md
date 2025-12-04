@@ -1,0 +1,65 @@
+# eyden – HOT BOYZ
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+呼ばれりゃどこでもいっちょ上がり
+あっちゅーまにほらまた火事場に
+Welcome to the party
+pussyは欲しがり
+好きに揺らしとけhotなbody
+俺超slay首から金
+あつくなるfloor それと諭吉
+渡す仲間は98 同じ
+輪になり着火 クソな法律
+目はメラメラI’m go getter
+集まるCheddar pussyboy killer
+燃やしちゃえネガティブないだろ暇
+今キラついてるチーズの指輪
+火傷に注意cuz I’m On fire
+週末平日Smokeするzaza
+目は真っ赤っかブリブリのまま
+熱いうちぶち込む言葉の弾
+マジでアチぃ 街から街
+羽田からとーび 着いてるぜ火
+着てる服wavy moneyも超clean
+燃え広がってくこのnew shit
+Yeeeea I’m a hot boy
+超アチィI’m a hot boy
+寒い事ならno no
+汗かいちゃう気分ならloco loco
+火傷に注意 なのにクール
+Dry Ice みたいになるバスルーム
+好きな服着るいらねえスーツ
+FuckするBooty まるでフルーツ
+冷めてる空気かえるブース
+ヘッズのカメラが
+オレ達にするズーム
+eydenと2人で料理作る
+ほら熱いうちに飲めよこのスープ
+速攻で蹴るバース
+まるでインスタント
+でも日清みたいには
+安売りしねえスタンス
+JackするAreaからArea
+んで楽勝で騒がすArena
+Bust Downしたchainで落ちるメラ
+気にならねえメラメラしてる目は
+ストリートがこえてく
+日本のメジャー
+オフィシャルじゃないが作るNEWERA
+In the Playlist
+We on the Front line
+腰履きして歩く大舞台
+In the game
+ラッパー達のFORTNITE
+生き残り弾けるHotNight
+マジでアチぃ 街から街
+羽田からとーび 着いてるぜ火
+着てる服wavy moneyも超clean
+燃え広がってくこのnew shit
+Yeeeea I’m a hot boy
+超アチィI’m a hot boy
+寒い事ならno no
+汗かいちゃう気分ならloco loco
+```
