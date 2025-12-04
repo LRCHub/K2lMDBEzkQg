@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "HOT BOYZ",
+  "base_artist": "eyden",
+  "createdAt": "2025-12-04T14:01:14.352638Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hot Boyz",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/01_Hot_Boyz_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hypnotize Cash Money (feat. Hot Boyz, Juvenile, BG & Big Tymers)",
+      "artist": "Tear Da Club Up Thugs, Hot Boyz, Juvenile, B!G & Big Tymers",
+      "has_synced": false,
+      "path": "select/02_Hypnotize_Cash_Money_(feat._Hot_Boyz,_Juvenile,_BG_&_Big_Tymers)_Tear_Da_Club_Up_Thugs,_Hot_Boyz,_Juvenile,_B!G_&_Big_Tymers.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hot Boyz",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/03_Hot_Boyz_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hot Boyz",
+      "artist": "Elliott, Missy",
+      "has_synced": true,
+      "path": "select/04_Hot_Boyz_Elliott,_Missy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hot Boyz",
+      "artist": "Missy Misdemeanor Elliot",
+      "has_synced": true,
+      "path": "select/05_Hot_Boyz_Missy_Misdemeanor_Elliot.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hot Boyz",
+      "artist": "Missy Elliot",
+      "has_synced": true,
+      "path": "select/06_Hot_Boyz_Missy_Elliot.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hot Boyz (LP Version)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/07_Hot_Boyz_(LP_Version)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shine (feat. Hot Boyz)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/08_Shine_(feat._Hot_Boyz)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hypnotize Cash Money (feat. Hot Boyz, Juvenile, B.G. & Big Tymers)",
+      "artist": "Tear Da Club Up Thugs",
+      "has_synced": true,
+      "path": "select/09_Hypnotize_Cash_Money_(feat._Hot_Boyz,_Juvenile,_B.G._&_Big_Tymers)_Tear_Da_Club_Up_Thugs.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hot Boyz Skit",
+      "artist": "YG",
+      "has_synced": true,
+      "path": "select/10_Hot_Boyz_Skit_YG.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hot Boyz",
+      "artist": "Missy Elliot",
+      "has_synced": true,
+      "path": "select/11_Hot_Boyz_Missy_Elliot.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hot Boyz (Lp Version)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/12_Hot_Boyz_(Lp_Version)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hot Boyz",
+      "artist": "Missy Elliott",
+      "has_synced": false,
+      "path": "select/13_Hot_Boyz_Missy_Elliott.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hot boyz 226",
+      "artist": "B.G.",
+      "has_synced": false,
+      "path": "select/14_Hot_boyz_226_B.G..txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hot Boyz (intro)",
+      "artist": "Gucci Mane & Young Thug",
+      "has_synced": false,
+      "path": "select/15_Hot_Boyz_(intro)_Gucci_Mane_&_Young_Thug.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HOT BOYZ",
+      "artist": "eyden, ¥ellow Bucks",
+      "has_synced": false,
+      "path": "select/pl_01_HOT_BOYZ_eyden,_¥ellow_Bucks.txt"
+    }
+  ]
+}
